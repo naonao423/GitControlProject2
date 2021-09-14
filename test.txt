@@ -1,2 +1,2 @@
-first row : this is first row
+first row : this is first row. this is mainly used for article title
 second row : this is second row
